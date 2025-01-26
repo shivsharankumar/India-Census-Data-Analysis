@@ -58,9 +58,11 @@ Ensure the dataset is available as `india_census_data.csv` in the root directory
 
 ## Folder Structure
 ```
-india-census-dashboard/
+india-census-dashboard/apps/
 |-- app.py                # Main application file
+india-census-dashboard/
 |-- requirements.txt      # Python dependencies
+india-census-dashboard/datasets/
 |-- india_census_data.csv # Census dataset (replace with your dataset)
 ```
 
