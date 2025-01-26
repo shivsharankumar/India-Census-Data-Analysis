@@ -65,7 +65,8 @@ india-census-dashboard/
 india-census-dashboard/datasets/
 |-- india_census_data.csv # Census dataset (replace with your dataset)
 ```
-
+![My Project Screenshot](./screenshot/ss1.png)
+![My Project Screenshot](./screenshot/ss2.png)
 ## Dependencies
 - Python 3.8+
 - Streamlit
